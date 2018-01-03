@@ -1,0 +1,9 @@
+C:\Users\Steph&Jeff\Source\Repos\MatchingPairsGame\MatchingPairsGame\bin\Debug\MatchingPairsGame.exe.config
+C:\Users\Steph&Jeff\Source\Repos\MatchingPairsGame\MatchingPairsGame\bin\Debug\MatchingPairsGame.exe
+C:\Users\Steph&Jeff\Source\Repos\MatchingPairsGame\MatchingPairsGame\bin\Debug\MatchingPairsGame.pdb
+C:\Users\Steph&Jeff\Source\Repos\MatchingPairsGame\MatchingPairsGame\obj\Debug\MatchingPairsGame.csprojResolveAssemblyReference.cache
+C:\Users\Steph&Jeff\Source\Repos\MatchingPairsGame\MatchingPairsGame\obj\Debug\MatchingPairsGame.Form1.resources
+C:\Users\Steph&Jeff\Source\Repos\MatchingPairsGame\MatchingPairsGame\obj\Debug\MatchingPairsGame.Properties.Resources.resources
+C:\Users\Steph&Jeff\Source\Repos\MatchingPairsGame\MatchingPairsGame\obj\Debug\MatchingPairsGame.csproj.GenerateResource.Cache
+C:\Users\Steph&Jeff\Source\Repos\MatchingPairsGame\MatchingPairsGame\obj\Debug\MatchingPairsGame.exe
+C:\Users\Steph&Jeff\Source\Repos\MatchingPairsGame\MatchingPairsGame\obj\Debug\MatchingPairsGame.pdb
