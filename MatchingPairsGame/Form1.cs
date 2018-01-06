@@ -16,7 +16,6 @@ namespace MatchingPairsGame
         List<string> icons = new List<string>()
         {
             "!", "!", "N", "N", ",", ",", "k", "k", "b", "b", "v", "v", "w", "w", "z", "z"
-
         };
         public Form1()
         {
@@ -26,18 +25,30 @@ namespace MatchingPairsGame
 
         private void AssignIconsToSquares()
         {
-            foreach(Control control in tableLayoutPanel1.Controls)
+            foreach (Control control in tableLayoutPanel1.Controls)
             {
                 Label iconLabel = control as Label;
-                if(iconLabel != null)
+                if (iconLabel != null)
 
                 {
                     int randomNumber = random.Next(icons.Count);
                     iconLabel.Text = icons[randomNumber];
 
-                    //iconLabel.ForeColor = iconLabel.BackColor
+                    iconLabel.ForeColor = iconLabel.BackColor;
                     icons.RemoveAt(randomNumber);
                 }
+            }
+        }
+
+        private void label_click(object sender, EventArgs e)
+        {
+            Label clickedLabel = sender as Label;
+            if(clickedLabel != null)
+            {
+                if (clickedLabel.ForeColor == Color.Black)
+                    return;
+
+                clickedLabel.ForeColor = Color.Black;
             }
         }
     }
